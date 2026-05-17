@@ -3,7 +3,7 @@
 
 def sumar(a: int, b: int) -> int:
     """Devuelve la suma de dos numeros."""
-    return a + b
+    return a - b
 
 
 def restar(a: int, b: int) -> int:
